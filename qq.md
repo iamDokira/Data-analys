@@ -1,1 +1,1 @@
-<img src="[https://i.postimg.cc/DwTc9bD5/1.png](https://raw.githubusercontent.com/iamDokira/Data-analys/refs/heads/main/файлы/задание%201.jfif)"; alt="ShowWork" width="200">
+![image](https://github.com/user-attachments/assets/48672ff7-1314-46dc-b11d-92d28b44b38d)
