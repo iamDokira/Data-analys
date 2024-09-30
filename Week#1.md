@@ -51,13 +51,14 @@ print('Hello World!')
 ```
 
 -  Запуск программы в Jupiter Notebook.
-blob:https://web.telegram.org/5f8cd0fe-3b92-453e-bd64-c0f0f714433f
+![image](https://github.com/user-attachments/assets/48a7a6f3-dd37-46ea-a4a3-e2c4af7a8817)
 
 ## Задание 2
-### Должна ли величина loss стремиться к нулю при изменении исходных данных? Ответьте на вопрос, приведите пример выполнения кода, который подтверждает ваш ответ.
+###  Написать программу Hello World на C# с запуском на Unity.
 
-- Перечисленные в этом туториале действия могут быть выполнены запуском на исполнение скрипт-файла, доступного [в репозитории](https://github.com/Den1sovDm1triy/hfss-scripting/blob/main/ScreatingSphereInAEDT.py).
-- Для запуска скрипт-файла откройте Ansys Electronics Desktop. Перейдите во вкладку [Automation] - [Run Script] - [Выберите файл с именем ScreatingSphereInAEDT.py из репозитория].
+Ход работы:
+- Написание программы на C#.
+  
 
 ```py
 
