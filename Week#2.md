@@ -52,8 +52,8 @@
 - Переход в раздел «Учетные данные» и создание учетных данных для ключа API
 - Сохранение файла с ключом в формате JSON на своем компьютере
 - Создать Google-таблицу и доступ к ней для редактирования с созданного сервисного аккаунта
-
-
+![image](https://github.com/user-attachments/assets/d8c1cb75-98c7-442e-b02b-6c7fdeab84d5)
+![image](https://github.com/user-attachments/assets/85ee6392-0b0d-4794-ac61-336ff6cf6d33)
 
 ## Задание 2
 ###  Генерация данных с помощью Python и их передача в google таблицу
@@ -83,6 +83,10 @@ while i <= len(mon):
         print(tempInf)
 ```
 - Запуск .ipynb-файл.
+![image](https://github.com/user-attachments/assets/e62f70df-6825-4857-831b-b9456e52d80c)
+![image](https://github.com/user-attachments/assets/890435d0-2c36-4438-b28a-22aaed1672e5)
+
+  
 ## Задание 3
 ### Создание ключа API для передачи данных из google-таблицы в Unity
 
@@ -185,7 +189,10 @@ public class NewBehaviourScript : MonoBehaviour
 }
 ```
 - Настройка инспектора свойства объекта GameObject
-- Запуск сцены. Убедитесь
+- Запуск сцены. 
+![image](https://github.com/user-attachments/assets/3545d345-ac10-4ec7-9de9-b962514aeb9b)
+![image](https://github.com/user-attachments/assets/5f89a369-a3d1-4083-89a6-1eedda72fcc8)
+![image](https://github.com/user-attachments/assets/c7eaaa90-582a-4457-aed0-15a60d3c0311)
 
 ## Задание 5.1
 ###  Переменная "HP" в игре "СПАСТИ РТФ: Выживание"
