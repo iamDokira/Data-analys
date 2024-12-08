@@ -40,15 +40,10 @@
 ## Задание 1
 ### Расширьте варианты доступного оружия в игре. Используйте шаблон таблицы для визуализации оружия игры Save RTF.
 
-(https://docs.google.com/spreadsheets/d/1dl3iOEY1x2wD8T6H7Kn9wnDpOi1mmBKU2D4IDS3HzKY/edit?usp=sharing)
+https://docs.google.com/spreadsheets/d/1SyWny-Q-zX12TtVp0zdhGBjyRovoaMXOZsQePkcmjeg/edit?usp=sharing
 
 
-# ВОТ ЗДЕСЬ
-![image](вставь ссылку на скриншот 1)
-
-
-[Week#3 - Баланс в играх.xlsx](file xlxs link git)
-
+![1](https://github.com/user-attachments/assets/0c9764c6-b2ff-4384-bfac-bdf558db3f6c)
 
 
 ## Задание 2
@@ -56,21 +51,22 @@
 
 # Среднеквадратическое отклонение (СКО)
 
+![2](https://github.com/user-attachments/assets/da78c2b8-3a30-4d99-9272-b7122e97fff0)
 
-![Screenshot_8](вставь ссылку на скриншот 2)
 
 
 
 # Разброс урона оружия
 
 
-![Screenshot_9](вставь ссылку на скриншот 3)
+
+![3](https://github.com/user-attachments/assets/14246d56-6eb5-4d63-a91d-5dc2dd5214f2)
 
 
 
 # Вариативность времени отклика игрока (реакция на события)
-![Screenshot_10](вставь ссылку на скриншот 4)
 
+![4](https://github.com/user-attachments/assets/c71ea0b9-991a-4ccb-bd57-8a6d7d054620)
 
 
 
@@ -78,7 +74,8 @@
 ### Решение в 80+ баллов должно визуализировать данные из google-таблицы, и с помощью Python передавать переменные в проект Unity. В Python данные также должны быть визуализированы.
 
 
-![Screenshot_6](вставь ссылку на скриншот 5)
+![5](https://github.com/user-attachments/assets/7ecfdf47-caf5-42d8-a1b3-dcb3bfbed961)
+
 
 
 ## Выводы
@@ -89,6 +86,6 @@
 
 
 
-## Powered by
+## Powered by Ежова А. Д.
 
-**BigDigital Team: Denisov | Fadeev | Panov**
+**Dokira
